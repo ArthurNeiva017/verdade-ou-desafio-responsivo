@@ -23,7 +23,7 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/ArthurNeiva017" target="_blank">
+  <a href="https://github.com/guigas2407" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Guilherme%20Soares&logo=gitlab&label=&color=800080&logoColor=purple&labelColor=000000&style=for-the-badge" height="35" alt="gitlab logo"  />
   </a>
 </div>
